@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm specialized in Frontend based tools and technologies for building web applications.
 
-- 🌱 I have interest in NodeJS & Python based Backend technologies to further expand my horizons.
+- 🌱 I have interest in NodeJS, Python, MongoDB, MySQL and similar Backend related technologies to further expand my horizons.
 
 - 💼 I'm currently open for work and employment opportunities (remote or relocation).
 
