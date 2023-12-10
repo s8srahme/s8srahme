@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 👨‍💻 About Me :
+### ⭐ About Me :
 
 - 💻 I'm a Software Developer based out of Bangladesh 🇧🇩.
 
