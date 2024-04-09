@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 - 💻 I'm a Software Developer based out of Bangladesh 🇧🇩.
 
-- 🔭 I'm specialized in Frontend based tools and technologies for building web applications.
+- 🔭 I'm specialized in Frontend based tools and technologies (React.js, Next.js, Redux, MUI) for building web applications.
 
-- 🌱 I have interest in NodeJS, Python, MongoDB, MySQL and similar Backend related technologies to further expand my horizons.
+- 🌱 I have interest in NodeJS, Python, Bash, MongoDB, PostgreSQL, AWS and similar Backend related technologies to further expand my horizons.
 
-- 💼 I'm currently open for work and employment opportunities (remote or relocation).
+- 💼 I'm currently open for work and employment opportunities (visa sponsorship required).
 
-- 🔧 Tools: Npm, Git, Insomnia, Lighthouse, ESLint, Prettier, Stylelint, VSCode, Mac and Linux (Manjaro).
+- 🔧 Tools: Npm, Git, Insomnia, Lighthouse, ESLint, Prettier, Stylelint, VSCode, Mac, Linux (Ubuntu, Manjaro).
 
 - ⚡ Fun fact: I love to cook, play guitar & go bouldering gym.
 
@@ -59,6 +59,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
 ---
