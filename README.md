@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 - 💻 I'm a Software Developer based out of Bangladesh 🇧🇩.
 
-- 🔭 I'm specialized in Frontend based tools and technologies (React.js, Next.js, Redux, MUI) for building web applications.
+- 🔭 I'm specialized in Frontend based tools and technologies (React.js, Next.js, Redux, MUI, GraphQL, React-Query) for building web applications.
 
-- 🌱 I have interest in NodeJS, Python, Bash, MongoDB, PostgreSQL, AWS and similar Backend related technologies to further expand my horizons.
+- 🌱 I have interest in Node.js, Python, Bash, MongoDB, PostgreSQL, AWS and similar Backend related technologies to further expand my horizons.
 
-- 💼 I'm currently open for work and employment opportunities (visa sponsorship required).
+- 💼 I'm currently open to discuss work and employment opportunities.
 
-- 🔧 Tools: Npm, Git, Insomnia, Lighthouse, ESLint, Prettier, Stylelint, VSCode, Mac, Linux (Ubuntu, Manjaro).
+- 🔧 Tools: Npm, Git, Insomnia, ESLint, Prettier, Stylelint, VSCode, Mac, Linux (Ubuntu, Manjaro).
 
 - ⚡ Fun fact: I love to cook, play guitar & go bouldering gym.
 
